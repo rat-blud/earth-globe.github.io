@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #000000;
+    color: white;
+    font-size: 30px;
+}
+.credit{
+        padding-top: 15%;
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;   
+}
+model-viewer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    width: 50vw;
+    height: 50vh;
+}
